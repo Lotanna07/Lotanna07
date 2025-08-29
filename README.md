@@ -61,8 +61,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nwosu Lotanna /nwosu Lotanna /output/snake.svg" alt="Snake animation" />
 
-###
+
 
 
