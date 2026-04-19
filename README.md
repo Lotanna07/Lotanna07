@@ -1,6 +1,7 @@
 
 
 # 💫 About Me:
+Ui/ux designer | software developer | AI engineer
 i am a web developer and ai/ml engineer, i like to build stuff .
 
 
